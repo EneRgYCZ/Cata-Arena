@@ -21,7 +21,7 @@
         "@vitejs/plugin-react": "^4.2.0",
         "autoprefixer": "^10.4.12",
         "axios": "^1.7.4",
-        "eslint": "^9.10.0",
+        "eslint": "^9.15.0",
         "eslint-plugin-react": "^7.35.2",
         "globals": "^15.9.0",
         "laravel-vite-plugin": "^1.0",
